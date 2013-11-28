@@ -65,9 +65,9 @@ parent category that it belongs to. An example is the following:
 
 ```json
 {
-    name        : 'missionary',
-    description : 'Penetrating partner is on top of receiving partner',
-    category    : 'positions'
+    "name"        : "missionary",
+    "description" : "Penetrating partner is on top of receiving partner",
+    "category"    : "positions"
 }
 ```
 
@@ -76,11 +76,11 @@ it contains:
 
 ```json
 {
-    id: 'o4FVCmq',
-    tags: [
-        'breasts',
-        'brunnette',
-        'female',
+    "id"   : "o4FVCmq",
+    "tags" : [
+        "breasts",
+        "brunette",
+        "female",
         ...
     ]
 }
